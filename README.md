@@ -1,14 +1,32 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dbsdenis" alt="dbsdenis" /></p>
 
 
-<h1 align = "justify">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Denilson Silva</h1>
-<p align = "justify">A passionate software developer with expertise in Node.js, JavaScript, PHP, and Ruby on Rails.</p>
+<h1 align = "justify">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Denilson Silva</h1>
+<p align = "justify">A passionate software developer with expertise in Node.js, JavaScript, PHP (Laravel), and Ruby on Rails.</p>
 
-💻 With a deep understanding of server-side and client-side development, I specialize in creating robust and efficient web applications, focusing particularly on the development of crawlers and APIs. I thrive on building scalable and reliable APIs using the power of Node.js. Additionally, I have a passion for crafting elegant user interfaces with JavaScript frameworks, ensuring seamless user interactions and captivating digital experiences.
+## 💻 Professional Experience
 
-🔧 Committed to continuous learning, I keep up with the latest industry trends and best practices, seeking opportunities to refine my skills and explore emerging technologies. I'm always excited to take on new challenges and contribute to innovative projects.
+With a deep understanding of server-side and client-side development, I specialize in creating robust and efficient web applications. My focus areas include:
 
-💡 Let's connect and collaborate on exciting projects. Feel free to reach out to me to discuss potential opportunities, exchange ideas, or simply connect with fellow tech enthusiasts.
+- 🤖 Developing intelligent bots for various platforms
+- 🕷️ Crafting efficient crawlers for data extraction
+- 📱 Building WhatsApp integrations for enhanced communication
+- 🚀 Creating scalable and reliable APIs using Node.js
+- 🎨 Designing elegant user interfaces with JavaScript frameworks
+
+I thrive on building solutions that ensure seamless user interactions and captivating digital experiences.
+
+## 🚀 Passion for Innovation
+
+I'm an enthusiast of Large Language Models (LLMs) and constantly explore ways to integrate this innovative technology into software solutions. My curiosity for LLMs drives me to continuously seek new applications and possibilities in this rapidly evolving field.
+
+## 🔧 Continuous Learning
+
+Committed to lifelong learning, I stay up-to-date with the latest industry trends and best practices. I constantly seek opportunities to refine my skills and explore emerging technologies. I believe that continuous improvement is key to staying relevant and innovative in the world of technology.
+
+## 💡 Let's Connect!
+
+I'm always excited to take on new challenges and contribute to innovative projects. Let's connect and collaborate on exciting ventures! Feel free to reach out to me to discuss potential opportunities, exchange ideas, or simply connect with a fellow tech enthusiast.
 
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5586999671739)](https://wa.me/5586999671739)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denilson81/)](https://www.linkedin.com/in/denilson81/)
